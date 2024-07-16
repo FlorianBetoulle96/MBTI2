@@ -1,11 +1,12 @@
 # Project Name
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
 ## Description
 
-A brief description of what your project does, why it's useful, what problem it solves, or who it's for.
+MBTI Classification : 
+1. See the MBTI classification of the Office characters
+2. Enter a dialog.csv, to get the MBTI of each character
 
 ## Table of Contents
 
