@@ -25,11 +25,11 @@ MBTI Classification :
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/FlorianBetoulle96/MBTI2.git
+   cd Output
 
  ## Usage
- run python main.py
+ run Read Outputs.ipynb
 
 ## Features
 Feature 1: Description of feature 1
